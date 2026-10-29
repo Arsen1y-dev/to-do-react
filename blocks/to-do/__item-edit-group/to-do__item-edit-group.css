@@ -1,0 +1,32 @@
+.to-do__item-edit-group {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.to-do__item-edit-input {
+  flex-grow: 1;
+  border-radius: 5px;
+  border: none;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000;
+  padding: 8px 12px;
+}
+
+.to-do__item-edit-action {
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #000;
+  font-weight: 700;
+  padding: 8px 12px;
+}
+
+.to-do__item-edit-action_type_cancel {
+  background-color: #6f6f6f;
+  color: #fff;
+}

@@ -11,6 +11,7 @@
 @import url(./blocks/to-do/__list/to-do__list.css);
 @import url(./blocks/to-do/__item/to-do__item.css);
 @import url(./blocks/to-do/__item-text/to-do__item-text.css);
+@import url(./blocks/to-do/__item-edit-group/to-do__item-edit-group.css);
 @import url(./blocks/to-do/__item-button/to-do__item-button.css);
 @import url(./blocks/to-do/__item-button/_type/to-do__item-button_type_delete.css);
 @import url(./blocks/to-do/__item-button/_type/to-do__item-button_type_duplicate.css);
